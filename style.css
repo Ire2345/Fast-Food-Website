@@ -4,6 +4,9 @@
   padding:0
 }
 
+html, body{
+  overflow-x:hidden
+}
 #banner{
   background:linear-gradient(rgba(0,0,0,0.1),#FF0000),url(images/backgroundimg.png);
   background-position: center;
